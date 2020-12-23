@@ -19,10 +19,10 @@
       "product-images"
     ]
   },
-  
+
   "flex-layout.col#right": {
     "children": [
-      "vtex.store-components:product-name",
+      "product-name",
       "product-price",
       "buy-button"
     ],
