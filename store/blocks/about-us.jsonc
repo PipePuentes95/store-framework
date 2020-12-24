@@ -38,7 +38,7 @@
             "maxHeight": "600px"
         }
     },
-    "tab-layout": {
+    "tab-layout#home": {
         "children": [
             "tab-list#home",
             "tab-content#home"
@@ -97,11 +97,9 @@
     
     "rich-text#home2": {
         "props": {
-            "props": {
-                "text": "Área do conteúdo da tab-list.item com  tabId = electronics",
-                "textPosition": "CENTER",
-                "font": "t-heading-3"
-            }
+            "text": "Área do conteúdo da tab-list.item com  tabId = electronics",
+            "textPosition": "CENTER",
+            "font": "t-heading-3"
         }
     }
 }
