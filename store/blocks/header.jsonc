@@ -27,9 +27,9 @@
     },
     "header-row#notification": {
         "children": [
-          "header-spacer",
-          "rich-text#header",
-          "header-spacer"
+            "header-spacer",
+            "rich-text#header",
+            "header-spacer"
         ]
     },
     "rich-text#header": {
@@ -73,12 +73,12 @@
             "sticky": true
         }
     },
-    "logo":{
+    "logo": {
         "props": {
             "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
         }
     },
-    "login":{
+    "login": {
         "props": {
             "showIconProfile": true,
             "iconLabel": "Login"
@@ -97,11 +97,11 @@
             "menu-item#small-appliances",
             "menu-item#electronics"
         ],
-        "props":{
+        "props": {
             "orientation": "horizontal"
         }
     },
-    "vtex.menu@2.x:submenu#major-appliances":{
+    "vtex.menu@2.x:submenu#major-appliances": {
         "children":[
             "vtex.menu@2.x:menu#major"
         ],
@@ -116,11 +116,11 @@
             "menu-item#washers"
         ]
     },
-    "vtex.menu@2.x:submenu#small-appliances":{
+    "vtex.menu@2.x:submenu#small-appliances": {
         "children":[
             "vtex.menu@2.x:menu#small"
         ],
-        "props":{
+        "props": {
             "orientation": "vertical"
         }
     },
@@ -131,11 +131,11 @@
             "menu-item#coffee"
         ]
     },
-    "vtex.menu@2.x:submenu#electronics":{
+    "vtex.menu@2.x:submenu#electronics": {
         "children":[
             "vtex.menu@2.x:menu#electronics"
         ],
-        "props":{
+        "props": {
             "orientation": "vertical"
         }
     },
