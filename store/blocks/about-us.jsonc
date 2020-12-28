@@ -52,14 +52,14 @@
     },
     "tab-list.item#home1": {
         "props": {
-            "tabId": "majorAppliances",
+            "tabId": "about",
             "label": "About",
             "defaultActiveTab": true
         }
     },
     "tab-list.item#home2": {
         "props": {
-            "tabId": "electronics",
+            "tabId": "instagram",
             "label": "Instagram"
         }
     },
@@ -75,7 +75,7 @@
             "rich-text#home1"
         ],
         "props": {
-            "tabId": "majorAppliances"
+            "tabId": "about"
         }
     },
     "tab-content.item#home2": {
@@ -83,7 +83,7 @@
             "iframe"
         ],
         "props": {
-            "tabId": "electronics"
+            "tabId": "instagram"
         }
     },
 
